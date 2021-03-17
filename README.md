@@ -1,0 +1,2 @@
+# faster_rcnn_CME
+关于基于Faster R-CNN的日冕物质抛射检测方法的代码实现和生成的CME目录样例
